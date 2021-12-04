@@ -1,0 +1,13 @@
+C:\Users\jayanth.bondi\Projects\donet-project\obj\Debug\netcoreapp3.1\donet-project.csprojAssemblyReference.cache
+C:\Users\jayanth.bondi\Projects\donet-project\obj\Debug\netcoreapp3.1\donet-project.AssemblyInfoInputs.cache
+C:\Users\jayanth.bondi\Projects\donet-project\obj\Debug\netcoreapp3.1\donet-project.AssemblyInfo.cs
+C:\Users\jayanth.bondi\Projects\donet-project\obj\Debug\netcoreapp3.1\donet-project.csproj.CoreCompileInputs.cache
+C:\Users\jayanth.bondi\Projects\donet-project\bin\Debug\netcoreapp3.1\donet-project.exe
+C:\Users\jayanth.bondi\Projects\donet-project\bin\Debug\netcoreapp3.1\donet-project.deps.json
+C:\Users\jayanth.bondi\Projects\donet-project\bin\Debug\netcoreapp3.1\donet-project.runtimeconfig.json
+C:\Users\jayanth.bondi\Projects\donet-project\bin\Debug\netcoreapp3.1\donet-project.runtimeconfig.dev.json
+C:\Users\jayanth.bondi\Projects\donet-project\bin\Debug\netcoreapp3.1\donet-project.dll
+C:\Users\jayanth.bondi\Projects\donet-project\bin\Debug\netcoreapp3.1\donet-project.pdb
+C:\Users\jayanth.bondi\Projects\donet-project\obj\Debug\netcoreapp3.1\donet-project.dll
+C:\Users\jayanth.bondi\Projects\donet-project\obj\Debug\netcoreapp3.1\donet-project.pdb
+C:\Users\jayanth.bondi\Projects\donet-project\obj\Debug\netcoreapp3.1\donet-project.genruntimeconfig.cache
