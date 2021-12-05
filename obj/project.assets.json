@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jayanth.bondi\\Projects\\donet-project\\donet-project.csproj",
+      "projectUniqueName": "c:\\Users\\jayanth.bondi\\Projects\\bank-account-console-app\\donet-project.csproj",
       "projectName": "donet-project",
-      "projectPath": "C:\\Users\\jayanth.bondi\\Projects\\donet-project\\donet-project.csproj",
+      "projectPath": "c:\\Users\\jayanth.bondi\\Projects\\bank-account-console-app\\donet-project.csproj",
       "packagesPath": "C:\\Users\\jayanth.bondi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jayanth.bondi\\Projects\\donet-project\\obj\\",
+      "outputPath": "c:\\Users\\jayanth.bondi\\Projects\\bank-account-console-app\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jayanth.bondi\\AppData\\Roaming\\NuGet\\NuGet.Config"
